@@ -12,7 +12,7 @@
 ```javascript
 const me = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, Python, PHP, Python],
+  code: [Typescript,Javascript, Python, Python,Elixir],
   tools: [Nest js, React, Redux, Node, DRF ,Docker],
   architecture: ["MVc",RSP, "event-driven", "design system pattern"],
   techCommunities: {
